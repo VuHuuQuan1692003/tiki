@@ -38,3 +38,4 @@ const authSchema = mongoose.Schema({
     timestamps: true
 })
 export default mongoose.model("Auth", authSchema)
+
